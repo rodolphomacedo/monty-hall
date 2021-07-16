@@ -1,0 +1,34 @@
+.gift {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 200px;
+}
+
+.cover {
+    width: 100px;
+    height: 25px;
+    background-color: #7aa944;
+}
+
+.bodyBox {
+    width: 90px;
+    height: 60px;
+    background-color: #5c7e32;
+}
+
+.giftBow1 {
+    position: absolute;
+    width: 15px;
+    height: 85px;
+    background-color: #ff0033;
+}
+
+.giftBow2 {
+    position: absolute;
+    top: 40px;
+    width: 90px;
+    height: 15px;
+    background-color: #ff0033;
+}
